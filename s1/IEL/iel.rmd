@@ -1,0 +1,37 @@
+---
+title: "IEL"
+author: "xbenes51"
+output: pdf_document
+---
+
+## Kondenzátor
+- Elektrostatické pole (projevují se v něm silové účinky elektrických nábojů, které jsou v klidu - neteče tam proud)
+	- Coulombův zákon $F = k \frac{Q_1 Q_2}{r^2}$,$k = \frac{1}{4  \pi   \epsilon}$
+	- Laserová tiskárna/kopírka - nabité částice toneru drží na válci
+- $Q=C U$ (C - Coulomb; F - Farrad; V)
+- **kapacita C:** $\epsilon_r   \epsilon_0   \frac{S}{l}$
+- Kapacita vs kondenzátor
+	- **kapacita**: vlastnost, fyzikální veličina
+	- **kondenzátor**: obvodový prvek, jehož charakteristickou vlastností je kapacita
+- na konkrétní místo v obvodě konkrétní kapacitu
+- součástka se dvěma vývody
+- Kondenzátor = zásobárna náboje
+- Jak se v elektronice kondenzátor používá
+	- jako lokální zásobník energie pro napájení obvodů
+		- k vykrytí krátkodobé nouze
+		- v měničích napětí, nábojových pumpách atd.
+	- jako setrvačný prvek
+		- pro definované spoždění reakce obvodu
+- Energie nabitého kondenzátoru 
+	- $W_e=\frac{1}{2} Q U$
+	- $W_e=\frac{1}{2} C U^2$
+
+# Cívka
+- Magnetické pole (podobně u elektrostatického pole)
+- Elektromagnetická indukce
+	- změna magnetického toku v okolí vodiče vyvolá v tomto vodiči proud
+	- elektromotorické napětí: $e= -\frac{\Delta \Phi}{\Delta t}$
+- Indukčnost
+	- magnetické a elektrické pole se ovlivňují
+	- označuje se L, jednotka je Henry
+- brání změně proudu v obvodě => opět setrvačný prvek
